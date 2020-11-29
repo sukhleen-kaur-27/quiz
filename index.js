@@ -198,6 +198,3 @@ console.log(chalk.whiteBright("\nYour Final Score Is ",score,"!!!!\n"));
 // console.log("Sukhleen is here working on some projects!!!!")
 // Exercise 1:
 // console.log("sukhleen kaur")
-
-
-suk
